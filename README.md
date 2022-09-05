@@ -1,2 +1,2 @@
 # Bellbase
-For the Bellbase language, or bbe
+For the Bellbase programming language, or bbe
