@@ -1,5 +1,5 @@
 ====
-Docs
+Bellbase
 ====
 
 .. container:: noprint
@@ -16,7 +16,8 @@ Docs
 
    .. container:: mw-indicators mw-body-content
 
-   .. rubric:: Bellbase Docs
+   .. rubric:: 
+   
       :name: firstHeading
       :class: firstHeading
 
