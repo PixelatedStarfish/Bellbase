@@ -1,4 +1,5 @@
 ========
 Bellbase
 ========
-{\field{\*\fldinst HYPERLINK "http://www.google.com/"}{\fldrslt Google}}
+Docs as html page.
+https://pixelatedstarfish.github.io/bbeDocs/
